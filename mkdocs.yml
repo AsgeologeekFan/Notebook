@@ -1,3 +1,5 @@
-site_name: My Docs
+site_name: AsgeologeekFan 的自然观察笔记
 theme:
   name: material
+
+copyright: Copyright &copy; 2022-2023 <a href="https://www.asgeologeekfan.top" target="_blank" rel="noopener">AsgeologeekFan</a>

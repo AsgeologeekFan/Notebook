@@ -2,10 +2,9 @@
 
 ## 鸭科
 
-### 斑头雁👇
+### 斑头雁
 
-![斑头雁](https://asgeologeekfan-images.oss-cn-hangzhou.aliyuncs.com/img/202304252113724.jpg){ align=left } test
-
+<img src="https://asgeologeekfan-images.oss-cn-hangzhou.aliyuncs.com/img/202304252113724.jpg" title="斑头雁">
 
 
 

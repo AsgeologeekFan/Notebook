@@ -4,7 +4,7 @@
 
 ### 斑头雁
 
-<img src="https://asgeologeekfan-images.oss-cn-hangzhou.aliyuncs.com/img/202304252113724.jpg" title="斑头雁">
+<img src="https://asgeologeekfan-images.oss-cn-hangzhou.aliyuncs.com/img/202304252113724.jpg" title="斑头雁" alt="test" width="400"/>
 
 
 

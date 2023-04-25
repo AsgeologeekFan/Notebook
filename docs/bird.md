@@ -4,7 +4,7 @@
 
 ### 斑头雁👇
 
-![斑头雁](./bird/斑头雁.jpg){ align=left } test
+![斑头雁](https://asgeologeekfan-images.oss-cn-hangzhou.aliyuncs.com/img/202304252113724.jpg){ align=left } test
 
 
 

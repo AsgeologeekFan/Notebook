@@ -3,3 +3,9 @@ theme:
   name: material
 
 copyright: Copyright &copy; 2022-2023 <a href="https://www.asgeologeekfan.top" target="_blank" rel="noopener">AsgeologeekFan</a>
+
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html

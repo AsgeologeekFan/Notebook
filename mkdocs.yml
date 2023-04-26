@@ -1,4 +1,6 @@
 site_name: AsgeologeekFan 的自然观察笔记
+site_author: Haotian Fan
+site_url: "https://asgeologeekfan.top/notebook"
 
 theme:
   name: material

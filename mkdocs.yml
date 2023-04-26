@@ -39,10 +39,10 @@ plugins:
       locale: zh
       enable_creation_date: true
 
-copyright: Copyright &copy; 2022-2023 <a href="https://www.asgeologeekfan.top" target="_blank" rel="noopener">AsgeologeekFan</a>
+copyright: Copyright &copy; 2023 <a href="https://www.asgeologeekfan.top" target="_blank" rel="noopener">AsgeologeekFan</a>
 
 nav:
-  - "🪨岩石":
+  - "🪨地质":
       - rock/index.md
       - "岩浆岩": rock/igneous.md
       - "沉积岩": rock/sedimentary.md
@@ -54,7 +54,7 @@ nav:
       - "星座": star/constellation.md
       - "行星": star/planet.md
       - "卫星": star/satellite.md
-  - "🌥️观云识天":
+  - "🌥️云与大气光学":
       - atmosphere/index.md
       - "云": atmosphere/cloud.md
       - "光学": atmosphere/halo.md

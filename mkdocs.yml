@@ -1,10 +1,105 @@
 site_name: AsgeologeekFan 的自然观察笔记
 theme:
   name: material
+  language: zh
+  font: false
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.action.edit
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.path
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  custom_dir: overrides
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: datetime
+      timezone: Asia/Shanghai
+      locale: zh
+      enable_creation_date: true
 
 copyright: Copyright &copy; 2022-2023 <a href="https://www.asgeologeekfan.top" target="_blank" rel="noopener">AsgeologeekFan</a>
 
+nav:
+  - "🪨岩石":
+      - rock/index.md
+      - "岩浆岩": rock/igneous.md
+      - "沉积岩": rock/sedimentary.md
+      - "变质岩": rock/metamorphic.md
+  - "✨天文":
+      - star/index.md
+      - "日食": star/sun.md
+      - "月食": star/moon.md
+      - "星座": star/constellation.md
+      - "行星": star/planet.md
+      - "卫星": star/satellite.md
+  - "🌥️观云识天":
+      - atmosphere/index.md
+      - "云": atmosphere/cloud.md
+      - "光学": atmosphere/halo.md
+  - "🐦鸟类":
+      - bird/index.md
+      - "雁形目": bird/anseriformes.md
+      - "鸡形目": bird/galliformes.md
+      - "潜鸟目": bird/gaviiformes.md
+      - "鹱(hù)形目": bird/procellariiformes.md
+      - "(pì tī)目": bird/podicipediformes.md
+      - "红鹳目": bird/phoenicopteriformes.md
+      - "鹳形目": bird/ciconiiformes.md
+      - "鹈形目": bird/pelecaniformes.md
+      - "鲣鸟目": bird/suliformes.md
+      - "鹰形目": bird/accipitriformes.md
+      - "鸨形目": bird/otidiformes.md
+      - "鹤形目": bird/gruiformes.md
+      - "鸻形目": bird/charadriiformes.md
+      - "鸽形目": bird/columbiformes.md
+      - "鹃形目": bird/cuculiformes.md
+      - "鸮形目": bird/strigiformes.md
+      - "夜鹰目": bird/caprimulgiformes.md
+      - "雨燕目": bird/apodiformes.md
+      - "佛法僧目": bird/coraciiformes.md
+      - "犀鸟目": bird/bucerotiformes.md
+      - "(lìe)形目": bird/piciformes.md
+      - "隼形目": bird/falconiformes.md
+      - "雀形目": bird/passeriformes.md
+  - "🌿花花草草":
+      - plant/index.md
 
+
+extra:
+  analytics:
+    provider: google
+    property: G-1D6KT33V1L
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AsgeologeekFan
+      name: Github
+    - icon: fontawesome/solid/rss
+      link: https://asgeologeekfan.top/
+      name: Blog
+    - icon: fontawesome/solid/house
+      link: https://asgeologeekfan.top/notebook/
+      name: Home
 
 markdown_extensions:
   - attr_list

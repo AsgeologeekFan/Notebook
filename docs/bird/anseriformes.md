@@ -24,6 +24,6 @@
 <div style="text-align: center;"><img src="" alt="绿头鸭" title="绿头鸭" ></div>
 <div style="text-align: center;">👆2023/01/30@盐城丹顶鹤湿地生态旅游区</div>
 
-### 针尾鸭
+### 针
 <div style="text-align: center;"><img src="" alt="针尾鸭" title="针尾鸭" ></div>
 <div style="text-align: center;">👆2023/01/30@盐城丹顶鹤湿地生态旅游区</div>
